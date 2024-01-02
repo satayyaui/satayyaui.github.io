@@ -1,7 +1,7 @@
 # Analyste de données 
 *Profil polyvalent combinant compétences techniques et expertise en finance, avec plus de trois ans d'expérience* 
 
-#### Compétences techniques: SQL, Power BI, Excel, R, Python, Eviews, SPSS
+**Compétences techniques:** SQL, Power BI, Excel, R, Python, Eviews, SPSS
 
 ## Formation
 - MBA. Analytique d'affaires | Université Laval à Québec (_Juin 2022_)								       		
@@ -9,16 +9,19 @@
 - Licence. Economie et Gestion | Université Mohamed Premier à Oujda (_Juin 2017_)
 
 ## Expérience professionnelle
-**Analyste de données @ Mouvement Desjardins 
+**Analyste de données @ Mouvement Desjardins  
 (_Janvier 2022 - Septembre 2023_)**  
+
 *Analyse de données pour mandats d'audit*
 - **Outils :**  Power BI, SQL, Python et R
 - **Tâches:**
-> Extraction de données en utilisant les requêtes SQL
-> Nettoyage de données en développant des scripts Python et R
-> Développement de rapport et des tableaux de bord sur l'outil Power BI
-> Documentation présentation des projets
-
+  '+' Extraction de données en utilisant les requêtes SQL
+  '+' Nettoyage de données en développant des scripts Python et R
+  '+' Développement de rapport et des tableaux de bord sur l'outil Power BI
+  '+' Documentation présentation des projets
+  
+- **Mandats:**
+> **Agrégation des Données sur les Risques et de la Notification des Risques (ADRNR) :** Consolidation et synthèse minutieuse des informations (données) relatives aux risques, afin d’incorporer une communication stratégique envers les parties prenantes, pour la promotion d'une gestion proactive des risques, le renforcement de la résilience organisationnelle, et la veille à la conformité aux normes réglementaires en vigueur.
 
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
