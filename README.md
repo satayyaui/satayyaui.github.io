@@ -1,33 +1,25 @@
-# Analyste de données
-*Profil polyvalent combinant compétences techniques et expertise en finance, avec plus de trois ans d'expérience*
+# Analyste de données 
+*Profil polyvalent combinant compétences techniques et expertise en finance, avec plus de trois ans d'expérience* 
 
-## Expérience professionnelle
+#### Compétences techniques: SQL, Power BI, Excel, R, Python, Eviews, SPSS
 
-_ Analyste de données | Mouvement Desjardins  Québec, Canada (Janvier 2022 - Septembre 2023)
-
-_ Analyste d'affaires | Bureau d’Ingénierie et Méthodes d’Optimisation des Chantiers  Tanger, Maroc (Septembre 2019 - Décembre 2020)
-
-_ Consultant - Analyse statistique | Ingénierie Civile et Géomatique  Rabat, Maroc (Juillet 2017 - Septembre 2018)
-
-
-# Data Scientist
-
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
-## Education
+## Formation
 - MBA. Analytique d'affaires | Université Laval à Québec (_Juin 2022_)								       		
 - Master. Finance, banque et marchés	| Université Abdelmalek Essaâdi à Tanger (_Juin 2019_)	 			        		
 - Licence. Economie et Gestion | Université Mohamed Premier à Oujda (_Juin 2017_)
 
-## Work Experience
-**Analyste de données @ Mouvement Desjardins (_Janvier 2022 - Septembre 2023_)**
+## Expérience professionnelle
+**Analyste de données @ Mouvement Desjardins 
+(_Janvier 2022 - Septembre 2023_)** 
  *Analyse de données pour mandats d'audit*
 - **Outils :**  Power BI, SQL, Python et R
 - **Tâches:**
-- Extraction de données en utilisant les requêtes SQL
-- Nettoyage de données en développant des scripts Python et R
-- Développement de rapport et des tableaux de bord sur l'outil Power BI
-- Documentation présentation des projets
+> Extraction de données en utilisant les requêtes SQL
+> Nettoyage de données en développant des scripts Python et R
+> Développement de rapport et des tableaux de bord sur l'outil Power BI
+> Documentation présentation des projets
+
+
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
