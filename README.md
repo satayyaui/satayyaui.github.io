@@ -15,9 +15,9 @@
 *Analyse de données pour mandats d'audit*
 - **Outils :**  Power BI, SQL, Python et R
 - **Tâches:**  
-  &emsp;&emsp;— Extraction de données en utilisant les requêtes SQL  
-  &emsp;&emsp;— Nettoyage de données en développant des scripts Python et R  
-  &emsp;&emsp;— Développement de rapport et des tableaux de bord sur l'outil Power BI  
+  &emsp;&emsp;— Extraction de données  
+  &emsp;&emsp;— Nettoyage de données en développant des scripts  
+  &emsp;&emsp;— Développement de rapport et des tableaux de bord sur l'outil  
   &emsp;&emsp;— Documentation présentation des projets  
   
 - **Mandats:**
