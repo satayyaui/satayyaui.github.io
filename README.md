@@ -12,7 +12,8 @@
   Université Mohamed Premier à Oujda (_Juin 2017_)
 
 ## Expérience professionnelle
-**Analyste de données | Mouvement Desjardins**  
+**Analyste de données**  
+![Desjardins](/img/Desjardins.png) Mouvement Desjardins  
 (_Janvier 2022 - Septembre 2023_)  
 
 *Analyse de données pour mandats d'audit*
