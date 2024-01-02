@@ -14,13 +14,14 @@
 
 *Analyse de données pour mandats d'audit*
 - **Outils :**  Power BI, SQL, Python et R
-- **Tâches:**
-  '+' Extraction de données en utilisant les requêtes SQL
-  '+' Nettoyage de données en développant des scripts Python et R
-  '+' Développement de rapport et des tableaux de bord sur l'outil Power BI
-  '+' Documentation présentation des projets
+- **Tâches:**  
+  &emsp;&emsp;— Extraction de données en utilisant les requêtes SQL  
+  &emsp;&emsp;— Nettoyage de données en développant des scripts Python et R  
+  &emsp;&emsp;— Développement de rapport et des tableaux de bord sur l'outil Power BI  
+  &emsp;&emsp;— Documentation présentation des projets  
   
 - **Mandats:**
+
 > **Agrégation des Données sur les Risques et de la Notification des Risques (ADRNR) :** Consolidation et synthèse minutieuse des informations (données) relatives aux risques, afin d’incorporer une communication stratégique envers les parties prenantes, pour la promotion d'une gestion proactive des risques, le renforcement de la résilience organisationnelle, et la veille à la conformité aux normes réglementaires en vigueur.
 
 
