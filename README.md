@@ -3,6 +3,6 @@ _Profil polyvalent combinant compétences techniques et expertise en finance, av
 
 ## Formation
 
--MBA. Analytique d'affaires  |  Université Laval     Québec, Canada (Juin 2022)
--Master. Finance, Banque et Marchés  |  Université Abdelmalek Essaâdi     Tanger, Maroc (Juin 2019)
--Licence. Economie et Gesion  |  Université Mohammed Premier     Oujda, Maroc (Juin 2017)
+MBA. Analytique d'affaires  |  Université Laval     Québec, Canada (Juin 2022)
+Master. Finance, Banque et Marchés  |  Université Abdelmalek Essaâdi     Tanger, Maroc (Juin 2019)
+Licence. Economie et Gesion  |  Université Mohammed Premier     Oujda, Maroc (Juin 2017)
