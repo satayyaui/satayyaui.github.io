@@ -16,7 +16,7 @@
 - **Outils :**  Power BI, SQL, Python et R
 - **Tâches:**  
   &emsp;&emsp;— Extraction et transformation de données  
-  &emsp;&emsp;— Développement de rapport et des tableaux de bord
+  &emsp;&emsp;— Développement de rapport et des tableaux de bord  
   &emsp;&emsp;— Documentation et présentation des projets  
   
 - **Mandats:**
