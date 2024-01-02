@@ -9,8 +9,8 @@
 - Licence. Economie et Gestion | Université Mohamed Premier à Oujda (_Juin 2017_)
 
 ## Expérience professionnelle
-**Analyste de données @ Mouvement Desjardins  
-(_Janvier 2022 - Septembre 2023_)**  
+**Analyste de données | Mouvement Desjardins**  
+(_Janvier 2022 - Septembre 2023_)  
 
 *Analyse de données pour mandats d'audit*
 - **Outils :**  Power BI, SQL, Python et R
