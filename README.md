@@ -10,8 +10,8 @@
 
 ## Expérience professionnelle
 **Analyste de données @ Mouvement Desjardins 
-(_Janvier 2022 - Septembre 2023_)** 
- *Analyse de données pour mandats d'audit*
+(_Janvier 2022 - Septembre 2023_)**  
+*Analyse de données pour mandats d'audit*
 - **Outils :**  Power BI, SQL, Python et R
 - **Tâches:**
 > Extraction de données en utilisant les requêtes SQL
