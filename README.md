@@ -5,11 +5,13 @@
 
 ## Formation
 - **MBA. Analytique d'affaires**  
- ![ULaval](/img/ULaval.png) Université Laval à Québec (_Juin 2022_)  
+ ![ULaval](/img/ULaval.png)   Université Laval à Québec (_Juin 2022_)  
+
 - **Master. Finance, banque et marchés**  
- ![UAE](/img/UAE.png) Université Abdelmalek Essaâdi à Tanger (_Juin 2019_)  
+ ![UAE](/img/UAE.png)   Université Abdelmalek Essaâdi à Tanger (_Juin 2019_)
+
 - **Licence. Economie et Gestion**  
- ![UMP](/img/UMP.png) Université Mohamed Premier à Oujda (_Juin 2017_)
+ ![UMP](/img/UMP.png)   Université Mohamed Premier à Oujda (_Juin 2017_)
 
 ## Expérience professionnelle
 **Analyste de données**  
