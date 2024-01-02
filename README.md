@@ -5,16 +5,15 @@
 
 ## Formation
 - **MBA. Analytique d'affaires**  
-  Université Laval à Québec (_Juin 2022_)  
+ ![ULaval](/img/ULaval.png) Université Laval à Québec (_Juin 2022_)  
 - **Master. Finance, banque et marchés**  
-  Université Abdelmalek Essaâdi à Tanger (_Juin 2019_)  
+ ![UAE](/img/UAE.png) Université Abdelmalek Essaâdi à Tanger (_Juin 2019_)  
 - **Licence. Economie et Gestion**  
-  Université Mohamed Premier à Oujda (_Juin 2017_)
+ ![UMP](/img/UMP.png) Université Mohamed Premier à Oujda (_Juin 2017_)
 
 ## Expérience professionnelle
 **Analyste de données**  
-![Desjardins](/img/Desjardins.png) Mouvement Desjardins  
-(_Janvier 2022 - Septembre 2023_)  
+![Desjardins](/img/Desjardins.png) Mouvement Desjardins (_Janvier 2022 - Septembre 2023_)  
 
 *Analyse de données pour mandats d'audit*
 - **Outils :**  Power BI, SQL, Python et R
