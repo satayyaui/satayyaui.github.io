@@ -5,11 +5,11 @@
 
 ## Formation
 - MBA. Analytique d'affaires | Université Laval à Québec  
-                             |  (_Juin 2022_)
+                               (_Juin 2022_)
 - Master. Finance, banque et marchés	| Université Abdelmalek Essaâdi à Tanger
-                                      |  (_Juin 2019_)	 			        		
+                                        (_Juin 2019_)	 			        		
 - Licence. Economie et Gestion | Université Mohamed Premier à Oujda
-                               |  (_Juin 2017_)
+                                 (_Juin 2017_)
 
 ## Expérience professionnelle
 **Analyste de données | Mouvement Desjardins**  
