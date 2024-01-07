@@ -32,6 +32,16 @@ Mouvement Desjardins (_Janvier 2022 - Septembre 2023_)
 
 > **Intégration et Synthèse Évolutive des Rapports Statutaires d'Audit Interne :** Développement de tableaux de bord innovant centralisant et automatisant le reporting des audits, renforçant ainsi l'efficacité opérationnelle et optimisant la transmission des informations.
 
+**Analyste d'affaires**  
+BIMOC (_Septembre 2019 - Décembre 2020_)  
+
+- **Mission :**  Incorporation des méthodes analytiques dans l’analyse de projets.
+- **Outils  :**  Power BI, SQL, Excel et R
+- **Tâches  :**  
+  &emsp;&emsp;— Évaluation des risques et de la rentabilité pour les projets immobiliers  
+  &emsp;&emsp;— Production de rapports et de tableaux de bord  
+  &emsp;&emsp;— Documentation des analyses et modèles utilisés  
+
 
 # Profil en Phase Active de Développement
 
