@@ -42,6 +42,8 @@ BIMOC (_Septembre 2019 - Décembre 2020_)
   &emsp;&emsp;— Production de rapports et de tableaux de bord  
   &emsp;&emsp;— Documentation des analyses et modèles utilisés  
 
+## Projet
+| MBA Analytique d'affaires
 
 # Profil en Phase Active de Développement
 
