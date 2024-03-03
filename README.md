@@ -42,11 +42,19 @@ BIMOC (_Septembre 2019 - Décembre 2020_)
   &emsp;&emsp;— Production de rapports et de tableaux de bord  
   &emsp;&emsp;— Documentation des analyses et modèles utilisés  
 
+
+**Consultant - Analyse statistique**  
+ICG (_Juillet 2017 - Septembre 2018_)  
+
+- **Mission :**  Étude statistique & économique du plan d’aménagement territoriale.
+- **Outils  :**  R, Power BI et Excel
+- **Tâches  :**  
+  &emsp;&emsp;— Analyse statistique pour études économiques utilisant R  
+  &emsp;&emsp;— Conception des tableaux de bords sous Power BI  
+  &emsp;&emsp;— Vérification de conformité  
+  &emsp;&emsp;— Études prévisionnelles et budgétisation  
+
 ## Projet
 | MBA Analytique d'affaires
 
-# Profil en Phase Active de Développement
-
-
-![logo1](/img/logo1.png)
 
