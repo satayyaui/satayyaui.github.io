@@ -32,7 +32,7 @@ Mouvement Desjardins (_Janvier 2022 - Septembre 2023_)
 
 > **Intégration et Synthèse Évolutive des Rapports Statutaires d'Audit Interne :** Développement de tableaux de bord innovant centralisant et automatisant le reporting des audits, renforçant ainsi l'efficacité opérationnelle et optimisant la transmission des informations.
 
-**Analyste d'affaires**  
+**Analyste en intelligence d'affaires**  
 BIMOC (_Septembre 2019 - Décembre 2020_)  
 
 - **Mission :**  Incorporation des méthodes analytiques dans l’analyse de projets.
@@ -41,6 +41,16 @@ BIMOC (_Septembre 2019 - Décembre 2020_)
   &emsp;&emsp;— Évaluation des risques et de la rentabilité pour les projets immobiliers  
   &emsp;&emsp;— Production de rapports et de tableaux de bord  
   &emsp;&emsp;— Documentation des analyses et modèles utilisés  
+
+- **Mandats:**
+
+> **Optimisation de Portefeuille Immobilier pour une Société de Gestion d'Actifs :**   Analyse de Tendances / Utilisation des requêtes SQL pour extraire des données sur les transactions immobilières, suivie d'une modélisation statistique dans R pour identifier les facteurs influençant les prix, la demande et l'offre. Visualisation des Données / Création de tableaux de bord interactifs dans Power BI pour présenter les préférences des consommateurs et les tendances du marché aux stakeholders.
+
+> **Évaluation de la Faisabilité Financière d'un Projet de Développement Résidentiel :**   Modélisation Financière / Développement de modèles de flux de trésorerie dans Excel pour projeter la rentabilité et le ROI, incluant l'analyse de sensibilité pour évaluer l'impact des changements de coûts. Rapport d'Analyse de Risque / Utilisation de R pour quantifier les risques et créer des visualisations de données dans Power BI, aidant à comprendre le risque versus retour.
+
+> **Rationalisation des Opérations pour un Groupe Immobilier Commercial :**    Audit de Performance / Extraction et manipulation de données opérationnelles avec SQL, et analyse approfondie via R pour identifier les inefficacités. Tableaux de Bord Opérationnels / Conception de tableaux de bord Power BI pour le suivi des performances opérationnelles et financières, facilitant l'accès rapide à des insights actionnables.
+
+> **Digitalisation des Processus d'Investissement pour une Banque d'Investissement :**   Intégration de Données / Utilisation de SQL pour l'intégration de données financières et immobilières dans une plateforme d'analyse unifiée. Automatisation des Rapports / Développement de scripts R pour l'automatisation des analyses financières et la création de tableaux de bord dynamiques dans Power BI pour le reporting en temps réel.
 
 
 **Consultant - Analyse statistique**  
